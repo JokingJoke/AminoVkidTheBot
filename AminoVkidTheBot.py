@@ -1,7 +1,6 @@
 #Bot Amino VkidSnusovski version 2.0.4 by Lil Zevi/Langa
 # -*- coding: utf8 -*-
 from BotAmino import *
-from fancy_text import fancy
 import sys
 import emoji
 import urllib.request
